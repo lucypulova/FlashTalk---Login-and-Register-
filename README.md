@@ -2,7 +2,7 @@
 
 **FlashTalk** is a full-stack Instant Messenger application developed as a student project. It allows users to register, log in, and access a protected chat interface. The application is built with **React + Redux Toolkit (frontend)** and **Express + TypeScript (backend)**. Authentication is handled using **JWT** and **bcrypt**, and user data is stored in a local JSON file.
 
-## ✨ Features
+## Features
 
 - User registration and login
 - JWT-based authentication
@@ -11,7 +11,7 @@
 - Modular Express backend and React frontend
 - Clean architecture and easy scalability
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:**
 - React
@@ -28,7 +28,7 @@
 - jsonwebtoken
 
   
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to run the project locally.
 
@@ -93,14 +93,14 @@ npm run dev
 
 ---
 
-### ✅ Done!
+### Done!
 
 You can now:
 - Register a new user
 - Log in
 - Access the protected chat page
 
-## 🧪 Test Users
+## Test Users
 
 Preloaded users exist in `users.json`. You can use them to test login functionality.
 
@@ -111,7 +111,7 @@ email: lyudmila@example.com
 password: pass1234
 ```
 
-## 🔒 Protected Frontend Pages
+## Protected Frontend Pages
 
 Some pages in FlashTalk are accessible only to authenticated users. These protected routes ensure that sensitive content, like the chat interface, is not available to users without a valid session.
 
@@ -124,7 +124,7 @@ If the token is missing or invalid, users are automatically redirected to the lo
 
 ---
 
-## 🧱 Key Components
+## Key Components
 
 Below is a list of essential components that make up the authentication and routing logic:
 
