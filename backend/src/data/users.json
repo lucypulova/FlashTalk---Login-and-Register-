@@ -1,0 +1,50 @@
+[
+  {
+    "username": "john_doe",
+    "email": "john@example.com",
+    "password": "$2b$10$knRZcHiu6VTBpt6QFfmMdu7Yo.howwhsMqNL789bZfQNl2FfuP4eC",
+    "displayName": "John Doe"
+  },
+  {
+    "username": "jane_smith",
+    "email": "jane@example.com",
+    "password": "$2b$10$Xrzzr6DoK4ReLCsdCDHhlO7nHdyHajZcxfgsZ0/cAyfuhK80Sheai",
+    "displayName": "Jane Smith"
+  },
+  {
+    "username": "TestUser",
+    "email": "test@example.com",
+    "password": "$2b$10$UzOztdggR46AiyUy.4gMneriXDobUEIbsIAX5SEOB/xybR39ciavy",
+    "displayName": "Test User"
+  },
+  {
+    "username": "TestUser",
+    "email": "test2@example.com",
+    "password": "$2b$10$VTGWmFhx5FbCuB6WZkDfJOn1eEGiwYJwbXERJy.jhIIr0XUuxX2z2",
+    "displayName": "Test User"
+  },
+  {
+    "username": "DuplicateUser",
+    "email": "test3@example.com",
+    "password": "$2b$10$kfHfXjnY4VUu10udwo9inu8pll8fA1dPVfyVoBNjUAHVwYQGAQasq",
+    "displayName": "Test User3"
+  },
+  {
+    "username": "Lucy ",
+    "email": "lucy@lucy.lucy",
+    "password": "$2b$10$UaCJhpXGSHp6VpoPm.Rd3O6XsZjwVLsx6GcXjWNUsZlbTgQpzxaSu",
+    "displayName": "Lucy Pulova"
+  },
+  {
+    "username": "Fati",
+    "email": "fati@fati.fati",
+    "password": "$2b$10$UrsT1chcjHifGejyTTiTDOsVFUwKWX01xTKz4BVCzH3Q.pO8Vt.06",
+    "displayName": "Fati Kelcheva"
+  },
+  {
+    "username": "Roma",
+    "email": "roma@roma.roma",
+    "password": "$2b$10$BqstW7c0XbWbPKzCjFYHMeqF1rQDKsxmg5EaGLu2S/W46AOoqYwpO",
+    "displayName": "Roma Ltv"
+  }
+]

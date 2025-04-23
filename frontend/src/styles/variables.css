@@ -1,0 +1,12 @@
+:root {
+  --color-blue: #3182ce;
+  --color-blue-dark: #2b6cb0;
+  --color-error: #e53e3e;
+  --color-gray-light: #f0f0f0;
+  --color-gray-medium: #cbd5e0;
+  --color-text-dark: #2d3748;
+  --color-text-muted: #4a5568;
+  --color-bg-input: #ebf8ff;
+  --color-bg-input-focus: #e6f0fa;
+  --color-error-bg: #fff5f5;
+}
